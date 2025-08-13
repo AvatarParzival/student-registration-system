@@ -1,0 +1,44 @@
+body {
+  min-height: 100vh;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+}
+
+.form-control:focus, .form-select:focus {
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.15);
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+  border: none;
+  transition: all 0.2s;
+}
+
+.btn-primary:hover {
+  background-color: #0b5ed7;
+  transform: translateY(-1px);
+}
+
+.toast {
+  background-color: #0d6efd;
+  color: white;
+  border: none;
+}
+
+#spinner {
+  margin-left: 8px;
+}
+
+@media (max-width: 768px) {
+  .card {
+    border-radius: 0;
+  }
+  
+  .container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
