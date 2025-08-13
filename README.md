@@ -45,7 +45,7 @@ Launch **XAMPP Control Panel** and start:
 - Apache
 - MySQL
 
-![XAMPP Control](<a href="https://ibb.co/KcH4sW5h"><img src="https://i.ibb.co/zWw92Zmx/Screenshot-2025-08-13-065303.jpg" alt="Screenshot-2025-08-13-065303"></a>)
+![XAMPP Control](<a><img src="https://i.ibb.co/zWw92Zmx/Screenshot-2025-08-13-065303.jpg"></a>)
 
 ---
 
