@@ -28,7 +28,7 @@ Download and install the latest version:
 ### 2️⃣ Setup Project
 ```bash
 # Clone repository or download as Zip
-git clone https://github.com/yourusername/student-registration-system.git
+git clone https://github.com/AvatarParzival/student-registration-system
 
 # Move to XAMPP's htdocs:
 # Windows:
@@ -76,7 +76,7 @@ CREATE DATABASE internship_db;
 ---
 
 ### 5️⃣ Configure Database
-Edit `includes/db.php`:
+Edit `db.php`:
 ```php
 <?php
 $server = 'localhost';
@@ -96,7 +96,7 @@ Access in browser:
 ## 📸 Screenshots
 | Registration Form | Student Dashboard |
 |-------------------|-------------------|
-| <a href="https://imgbb.com/"><img src="https://i.ibb.co/Q3rpcN7G/Screenshot-2025-08-13-073000.jpg" border="0"></a> | <a href="https://imgbb.com/"><img src="https://i.ibb.co/DgvfH25N/Screenshot-2025-08-13-073514.jpg" border="0"></a> |
+| ![Register](https://i.ibb.co/Q3rpcN7G/Screenshot-2025-08-13-073000.jpg) | ![Students](https://i.ibb.co/DgvfH25N/Screenshot-2025-08-13-073514.jpg)|
 
 ---
 
