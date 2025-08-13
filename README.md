@@ -45,7 +45,11 @@ Launch **XAMPP Control Panel** and start:
 - Apache
 - MySQL
 
-<center><a><img src="https://i.ibb.co/zWw92Zmx/Screenshot-2025-08-13-065303.jpg"></a><center>
+<p align="center">
+  <a href="#">
+    <img src="https://i.ibb.co/zWw92Zmx/Screenshot-2025-08-13-065303.jpg" alt="Screenshot" />
+  </a>
+</p>
 
 ---
 
@@ -92,7 +96,7 @@ Access in browser:
 ## 📸 Screenshots
 | Registration Form | Student Dashboard |
 |-------------------|-------------------|
-| ![Register](https://screenshots/register.png) | ![Dashboard](https://screenshots/dashboard.png) |
+| <a href="https://imgbb.com/"><img src="https://i.ibb.co/Q3rpcN7G/Screenshot-2025-08-13-073000.jpg" border="0"></a> | <a href="https://imgbb.com/"><img src="https://i.ibb.co/DgvfH25N/Screenshot-2025-08-13-073514.jpg" border="0"></a> |
 
 ---
 
@@ -188,6 +192,3 @@ git push origin feature
 5. Open a Pull Request
 
 ---
-
-## 📜 License
-**MIT License** © 2023 [Your Name]
